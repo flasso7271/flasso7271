@@ -3,6 +3,8 @@
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4b1f2e9c-fbd0-4f10-a520-64773da2e683.jpeg?v=1784142701)](https://www.boot.dev/certificates/4b1f2e9c-fbd0-4f10-a520-64773da2e683)
 
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/70341b42-8a52-49f0-9ecc-47cba146965c.jpeg?v=1785029731)](https://www.boot.dev/certificates/70341b42-8a52-49f0-9ecc-47cba146965c)
+
 <!--
 **flasso7271/flasso7271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
